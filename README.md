@@ -81,40 +81,13 @@
 
 ### 🌟 Featured Projects
 
-| Project | Description | Tech Stack |
+| Project | Description | Highlights |
 | :--- | :--- | :--- |
-| 📱 [**mineral_management**](https://github.com/ALexDangCoder/mineral_management) | Enterprise Mining Resource Management mobile application with maps, live filtering, and alert notifications. |     |
-| 🤖 [**demo_scan_body_FlutterWithMediaPipe**](https://github.com/ALexDangCoder/demo_scan_body_FlutterWithMediaPipe) | Real-time on-device AI pose estimation, face landmarks detection, and hand tracking. |     |
-| ⚡ [**flutter_base_bloc_cubit_syn**](https://github.com/ALexDangCoder/flutter_base_bloc_cubit_syn) | Production-ready Flutter 3.35+ starter architecture boilerplate with clean separation of layers. |   Flutter Version Management: A cli to manage Flutter SDK versions.
-
-Usage: fvm <command> [arguments]
-
-Global options:
--h, --help       Print this usage information.
-    --verbose    Print verbose output.
--v, --version    Print the current version.
-
-Available commands:
-  api        Provides JSON API access to FVM data for integrations and tooling
-  config     Configure global FVM settings and preferences
-  dart       Runs Dart commands using the project's configured Flutter SDK
-  destroy    Completely removes the FVM cache and all cached Flutter SDK versions
-  doctor     Shows detailed information about the FVM environment and project configuration
-  exec       Executes commands with the project's configured Flutter SDK in the environment
-  flavor     Executes Flutter commands using the SDK version configured for a specific project flavor
-  flutter    Runs Flutter commands using the project's configured SDK version
-  fork       Manage Flutter fork aliases
-  global     Sets a Flutter SDK version as the global default
-  install    Installs a Flutter SDK version and caches it for future use
-  list       Lists all Flutter SDK versions installed by FVM
-  releases   Lists all Flutter SDK releases available for installation
-  remove     Removes Flutter SDK versions from the cache
-  spawn      Executes Flutter commands using a specific SDK version
-  use        Sets the Flutter SDK version for the current project
-
-Run "fvm help <command>" for more information about a command.  |
-| 💎 [**flutter-crypto-trading-wallet**](https://github.com/ALexDangCoder/flutter-crypto-trading-wallet) | Complete Cryptocurrency Trading & Web3 Wallet UI Kit with modern dark theme. |     |
-| 🌐 [**ytfsoft_landing_page**](https://github.com/ALexDangCoder/ytfsoft_landing_page) | Landing page for YTF Soft featuring dynamic content management via Google Sheets API. |     |
+| 📱 [**mineral_management**](https://github.com/ALexDangCoder/mineral_management) | Enterprise Mining Resource Management mobile application with maps, live filtering, and alert notifications. | `Flutter` `Dart` `BLoC/Cubit` `Clean Architecture` |
+| 🤖 [**demo_scan_body_FlutterWithMediaPipe**](https://github.com/ALexDangCoder/demo_scan_body_FlutterWithMediaPipe) | Real-time on-device AI pose estimation, face landmarks detection, and hand tracking. | `Flutter` `MediaPipe` `Computer Vision` `iOS` |
+| ⚡ [**flutter_base_bloc_cubit_syn**](https://github.com/ALexDangCoder/flutter_base_bloc_cubit_syn) | Production-ready Flutter 3.35+ starter architecture boilerplate with clean separation of layers. | `Flutter 3.35+` `BLoC` `FVM` `CI/CD` |
+| 💎 [**flutter-crypto-trading-wallet**](https://github.com/ALexDangCoder/flutter-crypto-trading-wallet) | Complete Cryptocurrency Trading & Web3 Wallet UI Kit with modern dark theme. | `Flutter` `Dart` `UI/UX` `Crypto` |
+| 🌐 [**ytfsoft_landing_page**](https://github.com/ALexDangCoder/ytfsoft_landing_page) | Landing page for YTF Soft featuring dynamic content management via Google Sheets API. | `React` `Vite` `Tailwind CSS` `Sheets API` |
 
 ---
 
